@@ -1,11 +1,11 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyDqPj6i-1DJkHHJJ7bWgPiYVSpP3M-8OtM",
-  authDomain: "dissertation-4fdbe.firebaseapp.com",
-  databaseURL: "https://dissertation-4fdbe-default-rtdb.firebaseio.com",
-  projectId: "dissertation-4fdbe",
-  storageBucket: "dissertation-4fdbe.appspot.com",
-  messagingSenderId: "39958739999",
-  appId: "1:39958739999:web:a4f0ea3cc0bf7c685d292a"
+    apiKey: "AIzaSyDqPj6i-1DJkHHJJ7bWgPiYVSpP3M-8OtM",
+    authDomain: "dissertation-4fdbe.firebaseapp.com",
+    databaseURL: "https://dissertation-4fdbe-default-rtdb.firebaseio.com",
+    projectId: "dissertation-4fdbe",
+    storageBucket: "dissertation-4fdbe.appspot.com",
+    messagingSenderId: "39958739999",
+    appId: "1:39958739999:web:a4f0ea3cc0bf7c685d292a"
   };
   
   // initialize firebase
